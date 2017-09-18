@@ -1,1 +1,2 @@
-# nyu_advanced_python_class
+# NYU Advanced Python Class
+Fall Semester 2017 
