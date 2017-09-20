@@ -19,7 +19,10 @@ Make your name the header and write few sentences about you. Have a sub header f
 When you are finished submit a pull request
 
 ## Resources
-(Markdown Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 [Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+
 [How to Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
