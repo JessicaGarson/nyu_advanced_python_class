@@ -9,11 +9,11 @@ Make your name the header and write few sentences about you. Have a sub header f
 
 - Area of Interest - What you are looking to do after this class is finished. What type of code you like to write. 
 
-- Fun Facts - write some fun facts about yourself  
+- Fun Facts - write some fun facts about yourself.
 
 - Favorite Movie - what’s your favorite movie? 
 
-- Dream Project – if you can work on anything what would it be 
+- Dream Project – if you can work on anything what would it be.
 
 ## Submit a Pull Request
 When you are finished submit a pull request.
