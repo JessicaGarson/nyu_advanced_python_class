@@ -16,7 +16,7 @@ Make your name the header and write few sentences about you. Have a sub header f
 - Dream Project – if you can work on anything what would it be 
 
 ## Submit a Pull Request
-When you are finished submit a pull request
+When you are finished submit a pull request.
 
 ## Resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
