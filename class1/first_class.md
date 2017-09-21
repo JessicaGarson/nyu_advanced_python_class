@@ -12,8 +12,4 @@ This might be a review for some of you but we are going to dive deep in the basi
 
 ## Part 3 - Pair Programming
 
-## Start on Text Based Games 
-
-## Homework
-
-- Continue your text based game
+## Part 4 - Preview of Next Class  
