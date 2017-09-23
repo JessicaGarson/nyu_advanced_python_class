@@ -6,6 +6,7 @@ We will start next class by reviewing our text based games. We will be drilling 
 Read up on how the internet works. I suggest these resources.
 - [Jessica McKellar's Talk on How the Internet Works](https://www.youtube.com/watch?v=zaH7rtqkY10)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [What Happes When You Type Google.com into your Browser](https://github.com/alex/what-happens-when) (note - I don't expect you to know all this)
 
 ## Flask
 We will also be starting to dive into flask as well.
