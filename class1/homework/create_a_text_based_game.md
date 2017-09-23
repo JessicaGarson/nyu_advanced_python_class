@@ -1,4 +1,4 @@
-#Text Based Game
+# Text Based Game
 Your first assignment is to create a text based game that can be run in your terminal. This game should tell a story of your choosing.
 
 You should be able to quit the game easily. We will be sharing these games at the beginning of the next class.
