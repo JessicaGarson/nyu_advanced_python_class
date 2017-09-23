@@ -10,6 +10,7 @@ Read up on how the internet works. I suggest these resources.
 
 ## Flask
 We will also be starting to dive into flask as well.
+You might want to try to build a hello world flask app. 
 Here are some resources to get started.
 - [Build a Hello World Flask App](https://ampersandacademy.com/tutorials/flask-framework/hello-world-program-flask-framework)
 - [Start the Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
