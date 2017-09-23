@@ -14,4 +14,6 @@ This might be a review for some of you but we are going to dive deep in the basi
 
 ## Part 4 - Pair Programming
 
-## Part 5 - Preview of Next Class  
+## Part 5 - Introduce Text Based Games
+
+## Part 6 - Preview of Next Class  
