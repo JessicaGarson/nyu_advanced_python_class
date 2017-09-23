@@ -2,7 +2,7 @@
 
 Today we are going to get to know each other a bit better and dig back into the basics of python.
 
-Slides for the class can be found here
+Slides for the class can be found [here](http://jessicagarson.com/nyuap1/#/)
 
 ## Part 1 - Introduction
 [About Me Assignment](https://github.com/JessicaGarson/nyu_advanced_python_class/blob/master/class1/about_us/about_me.md)
