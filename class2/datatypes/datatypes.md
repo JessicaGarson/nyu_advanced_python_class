@@ -16,3 +16,4 @@ To submit follow these directions:
 6. Push your file
 `git push --set-upstream origin jg-datatypes`
 7. Submit a pull request similar to how we did the other day. 
+8. Select your partner as your reviewer 
