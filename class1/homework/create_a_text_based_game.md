@@ -1,7 +1,9 @@
 # Text Based Game
 Your first assignment is to create a text based game that can be run in your terminal. This game should tell a story of your choosing.
 
-You should be able to quit the game easily. We will be sharing these games at the beginning of the next class.
+You should be able to quit the game easily. 
+
+This assignment is due on October 7th. We will have some time at the beginning of our next two classes to discuss our progress. 
 
 # Resources
 [Simplest rpg game in python](https://balau82.wordpress.com/2010/06/28/simplest-rpg-game-in-python/)
