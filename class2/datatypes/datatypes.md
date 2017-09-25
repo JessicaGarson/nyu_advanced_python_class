@@ -1,4 +1,5 @@
 # Introduction Activity
+Before we get started we will picking a partner (different from your partner from last class). 
 Write a program in Python that uses all three data types. This should a pretty simple program that builds off the concepts we discussed in the last class.
 
 ## We will be Submitting a Little Differently
@@ -17,3 +18,6 @@ To submit follow these directions:
 `git push --set-upstream origin jg-datatypes`
 7. Submit a pull request similar to how we did the other day. 
 8. Select your partner as your reviewer 
+
+## Code Review
+We will be reviewing each others code 
