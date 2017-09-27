@@ -173,5 +173,5 @@ Let's add an directory called static if we want add images, css, or JavaScript.
 Let's export one more time and run our app.
 ```
 export FLASK_APP=run.py
-$ flask run
+flask run
 ```
