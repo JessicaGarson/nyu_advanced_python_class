@@ -6,7 +6,6 @@ Here are some resources to check out to continue feeling good about flask.
 [Poke around in the Offical Documentation](http://flask.pocoo.org/docs/0.10/)
 [A Tutorial from PyCon 2015](https://www.youtube.com/watch?v=DIcpEg77gdE)
 [Flask for Beginners](https://www.gitbook.com/book/caseym/flask-for-beginners/details)
-[Getting Started With Flask](https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework)
 
 # Learn a Bit about Agile Processes
 We'll be creating projects in an agile way so having some knowledge of it is useful.
