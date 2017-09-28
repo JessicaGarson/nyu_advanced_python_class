@@ -1,15 +1,15 @@
 # Different Types of Requests
 
-## GET
+## GET-Blub
 gets data from a server
 
-## POST
+## POST_Stuff
 gives data to a server
 
 ## HEAD
 gets only the HTTP headers
 
-## DELETE
+## DELETE^Things
 deletes whatever the resource is
 
 ## OPTIONS
