@@ -1,22 +1,22 @@
-#Different Types of Requests
+# Different Types of Requests
 
-##GET
+## GET
 gets data from a server
 
-##POST
+## POST
 gives data to a server
 
-##HEAD
+## HEAD
 gets only the HTTP headers
 
-##DELETE
+## DELETE
 deletes whatever the resource is
 
-##OPTIONS
+## OPTIONS
 returns the HTTP methods that you can use on that server
 
-##CONNECT
+## CONNECT
 converts the request connection to a transparent TCP/IP tunnel
 
-##PUT
+## PUT
 uploads a representation of the specified URI
