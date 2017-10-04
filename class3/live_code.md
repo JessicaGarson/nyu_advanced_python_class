@@ -32,6 +32,8 @@ In our terminal let's start creating some directories and files.
 
 `touch run.py config.py`
 
+`mkdir app`
+
 `cd app`
 
 `touch __init__.py views.py`
