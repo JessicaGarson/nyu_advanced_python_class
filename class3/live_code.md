@@ -154,7 +154,7 @@ In the about.html file we'll add the following code:
 Let's add an directory called static if we want add images, css, or JavaScript.
 
 # Now We are Ready to Run our App
-Let's export one more time and run our app.
+Let's export and run our app.
 ```
 export FLASK_APP=run.py
 flask run
