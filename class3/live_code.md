@@ -28,11 +28,10 @@ We can save this as a requirements.txt file by using the following line of code:
 In the terminal let's set up to create a new app that's a bit closer to a standard set up.
 
 In our terminal let's start creating some directories and files.
+
 `mkdir app app/templates`
 
 `touch run.py config.py`
-
-`mkdir app`
 
 `cd app`
 
