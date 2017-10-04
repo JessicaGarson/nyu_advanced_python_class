@@ -1,7 +1,7 @@
 # Class 3
 This class will be mostly centered around flask. We will also start planning for our next class so we are ready to start building our site together as a class.
 
-Slides are here [here](http://jessicagarson.com/nyuap3/#/).
+Slides are [here](http://jessicagarson.com/nyuap3/#/).
 
 ## Hello World
 We'll get started with creating hello world flask apps.
