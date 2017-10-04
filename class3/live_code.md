@@ -23,26 +23,9 @@ We see these packages get installed for you.
 We can save this as a requirements.txt file by using the following line of code:
 `pip freeze > requirements.txt`
 
-# Hello World
-Make a file called hello_world.py
-```Python
-from flask import Flask
-app = Flask(__name__)
-
-
-@app.route('/')
-def hello_world():
-    return 'Hello, World!'
-```
-
-To run this file export the file
-`export FLASK_APP=hello_world.py`
-
-And than type the following into your terminal
-`python -m flask run`
 
 # Let's Make a More Robust App
-We can go ahead and remove our hello_world.py file and create some new files. In terminal let's set up to create a new app that's a bit closer to a standard set up.
+In the terminal let's set up to create a new app that's a bit closer to a standard set up.
 
 In our terminal let's start creating some directories and files.
 `mkdir app app/templates`
