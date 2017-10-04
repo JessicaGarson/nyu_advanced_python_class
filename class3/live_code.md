@@ -80,7 +80,7 @@ def about():
 
 # Run
 In our run.py file let's add the following
-```
+```python
 from app import app
 
 if __name__ == '__main__':
