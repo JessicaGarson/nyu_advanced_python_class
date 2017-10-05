@@ -11,7 +11,7 @@ def login():
             return log_the_user_in(request.form['username'])
         else:
             error = 'Invalid username/password'
-    return render_template('login.html', error=error)
+    return render_template('pg1.html', error=error)
 
 @app.route('/')
 def index():
