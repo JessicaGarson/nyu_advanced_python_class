@@ -14,4 +14,4 @@ You should have received feedback and grade already.
 We will be using that to create the board for today's class.
 
 ## What we Will Need to Build the Site
-- In the directory  
+We will be pairing up for this part of the class 
