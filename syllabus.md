@@ -43,7 +43,7 @@ We will be introducing some core concepts in terms of web development, including
 We'll be creating predictive models and learning some of the basics of Data Science.We will also be discussing about database concepts. 
 
 ## Lesson 9 - Test Driven Development with Django October 28th 
-We will use a test driven model to spend this class building a model
+We will use a test driven model to spend this class building a django site. 
 
 ## Due Dates
 - Text Based Game due October 7th
