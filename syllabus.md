@@ -46,3 +46,7 @@ We'll be creating predictive models and learning some of the basics of Data Scie
 We will use a test driven model to spend this class building a model
 
 ## Due Dates
+- Text Based Game due October 7th
+- Blog in Flask due October 18th
+- About a Dataset due October 26th
+- About me Django site due October 29th
