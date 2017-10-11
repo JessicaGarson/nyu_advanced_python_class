@@ -3,7 +3,7 @@ You will create a personal blog, using flask. The format of this project is pret
 
 Your blog can be about any topic of your choosing.
 
-This assignment is due ***October 21st***
+This assignment is due ***October 18th***
 
 # Resources
 [Python Flask Tutorial](http://pythonforengineers.com/python-flask-tutorial/)
