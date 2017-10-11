@@ -4,4 +4,4 @@ With the dataset of your choosing write a one page memo about interesting findin
 There should be at least 3 visualizations of your dataset.  
 
 # Due Date
-This assignment is due October 25th.
+This assignment is due October 28th.
