@@ -1,0 +1,140 @@
+"Turns on syntax highlighting"
+syntax on
+
+"Basic settings"
+set nocompatible "Fixes old Vi bugs"
+set backspace=indent,eol,start "Makes backspace work"
+set history=500 "Sets undo history size"
+set ruler "Sets up status bar"
+set number "Turns on line numbering"
+set tabstop=4 "Sets indent size of tabs"
+set softtabstop=4 "Soft tabs"
+set expandtab "Tabs suck. Spaces rule."
+set shiftwidth=4 "Sets auto-indent size"
+set laststatus=2 "Always keeps the status bar active"
+set autoindent "Turns on auto-indenting"
+set copyindent "Copy the previous indentation on autoindenting"
+set smartindent "Remembers previous indent when creating new lines"
+set cursorline
+set cursorcolumn
+set t_Co=256 "Sets terminal to use 256 colors"
+let mapleader=","
+set pastetoggle=<leader>p
+set wrap
+
+"Key mappings"
+inoremap jj <Esc>`^
+inoremap jk <Esc>`^
+"This unsets the "last search pattern" register by hitting return
+nnoremap <CR> :noh<CR>
+nnoremap ; :
+nnoremap j gj
+nnoremap k gk
+nnoremap <leader>t :tabnew<space>
+map <C-]> :YcmCompleter GoToImprecise<CR>
+
+"Search settings"
+set hlsearch "Highlights search terms"
+set incsearch "Highlights search terms as you type them"
+set showmatch "Highlights matching parentheses"
+set ignorecase "Ignores case when searching"
+set smartcase "Unless you put some caps in your search term"
+
+"Window movement mappings"
+nnoremap <c-h> <c-w>h
+nnoremap <c-l> <c-w>l
+nnoremap <c-j> <c-w>j
+nnoremap <c-k> <c-w>k
+
+au BufNewFile,BufRead *.js,*.jsx*,*.coffee,*.rb,*.html,*.xml :setlocal sw=2 ts=2 sts=2 " Two spaces for js/coffee files "
+au FileType make setlocal noexpandtab
+
+"Gets rid of trailing whitespace"
+autocmd BufWritePre * :%s/\s\+$//e
+
+" Macros
+" Changes 'varName' to 'this.varName = varName;' from beginning of variable.
+let @t = '^ithis.jjywA = ;jjP'
+
+" Vundle stuff"
+"
+filetype off                   " required!
+
+" Setting up Vundle - the vim plugin bundler
+    let iCanHazVundle=1
+    let vundle_readme=expand('~/.vim/bundle/vundle/README.md')
+    if !filereadable(vundle_readme)
+        echo "Installing Vundle.."
+        echo ""
+        silent !mkdir -p ~/.vim/bundle
+        silent !git clone https://github.com/gmarik/vundle ~/.vim/bundle/vundle
+        let iCanHazVundle=0
+    endif
+    set rtp+=~/.vim/bundle/vundle/
+    call vundle#rc()
+    Plugin 'gmarik/vundle'
+    "Add bundles here
+
+    " let Vundle manage Vundle
+    Plugin 'VundleVim/Vundle.vim'
+    " Awesome syntax checking
+    Plugin 'Syntastic'
+    " Cool colorscheme
+    Plugin 'altercation/vim-colors-solarized'
+    " Gnarly git stuff
+    Plugin 'https://github.com/tpope/vim-fugitive'
+    " coffee script plugin
+    Plugin 'kchmck/vim-coffee-script'
+    " Better file browser
+    Plugin 'scrooloose/nerdtree'
+    " Automatically sort python imports
+    " Plugin 'fisadev/vim-isort'
+    " XML/HTML tags navigation
+    Plugin 'matchit.zip'
+    " Yank history navigation
+    Plugin 'YankRing.vim'
+    " Syntax/style wrapper for python
+    Plugin 'nvie/vim-flake8'
+    " Awesome html/web plugin
+    Plugin 'mattn/emmet-vim'
+    " Much better status/tabline
+    Plugin 'bling/vim-airline'
+    " Syntax highlighting for Swift
+    Plugin 'keith/swift.vim'
+    " Syntax highlighting for typescript
+    Plugin 'leafgarland/typescript-vim'
+    " Kick ass autocompletion
+    " See https://news.ycombinator.com/item?id=5169062 for more instructions
+    " if necessary. Uncomment the next line in order to actually use YCM
+    Plugin 'Valloric/YouCompleteMe'
+    " es6 syntax highlighting
+    Plugin 'isRuslan/vim-es6'
+
+    "...All other bundles...
+    if iCanHazVundle == 0
+        echo "Installing Bundles, please ignore key map error messages"
+        echo ""
+        :PluginInstall
+    endif
+" Setting up Vundle - the vim plugin bundler end
+
+" Airline settings
+let g:airline#extensions#tabline#enabled = 1
+
+" Syntastic stuff
+let g:syntastic_check_on_open=0
+let g:syntastic_enable_signs=1
+
+"Filetype settings"
+filetype plugin indent on " Turns on plugin/indentation support for specific filetypes
+
+" Allow crosshair cursor highlighting.
+hi CursorLine   cterm=NONE ctermbg=0
+hi CursorColumn cterm=NONE ctermbg=0
+nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>
+
+" Set colorscheme
+set background=light
+colorscheme solarized
+" uncomment this line depending on terminal colors
+" let g:solarized_termcolors=256
