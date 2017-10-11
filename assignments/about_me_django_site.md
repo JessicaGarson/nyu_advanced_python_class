@@ -4,4 +4,4 @@ Using Django create a personal portfolio site. This should have a bit about you 
 
 # This Assignment
 
-This assignment is due on the October 28th  
+This assignment is due on the October 29th  
