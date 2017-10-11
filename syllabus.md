@@ -30,6 +30,7 @@ We will be continuing with with Sprint Planning and Assigning Tickets
 - Assign tickets for our Class Site
 - Demo Text Based Games
 - Start Building Our Site  
+- Consider Breaking into teams for the Hackathon. 
 
 ## Lesson 5 - Hackathons, APIS and Flask - October 14th
 You are encouraged to check out the HackNY Hackathon and try to build a flask site as part of the hackathon.
