@@ -1,5 +1,5 @@
 # Class 6
-Slides are found [here]().
+Slides are found [here](http://jessicagarson.com/ap6/#/).
 
 # Finishing Up Flask
 Today we'll be focused on finishing up our work with flask and moving on to Django.
