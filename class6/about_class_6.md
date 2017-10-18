@@ -15,3 +15,6 @@ What needs to be done to get this working tonight? My plan is to take this and d
 
 # Django Hello World
 We'll wrap up class by creating a hello world program in Django. 
+
+# Django Polls 
+If we have time tonight, we'll get started on the [classic Django tutorial on creating polls](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)
