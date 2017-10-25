@@ -18,3 +18,4 @@ We'll pair up and we'll get started on the [classic Django tutorial on creating 
 After you are finished try to do something to make this special.[See adding Twilio to this](https://www.twilio.com/blog/2017/10/how-to-receive-and-respond-to-text-messages-in-python-with-django-and-twilio.html).
 
 # Share What We Create
+We'll be sharing what we create at the end of class. 
