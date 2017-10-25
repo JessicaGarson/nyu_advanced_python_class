@@ -252,5 +252,7 @@ urlpatterns = [
 ```
 
 # Now Let's Run Things 
-
 `python manage.py runserver`
+
+# Let's Create a requirements.txt file
+pip freeze > requirements.txt
