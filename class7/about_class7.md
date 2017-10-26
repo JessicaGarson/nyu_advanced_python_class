@@ -1,4 +1,4 @@
-Slides for Today's Class are here](jessicagarson.com/ap7)
+Slides for [Today's Class are here](jessicagarson.com/ap7)
 
 # Code Demos!
 Today we'll get started with code demos on our about a dataset assignment.
