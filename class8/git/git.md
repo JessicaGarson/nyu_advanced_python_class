@@ -8,7 +8,7 @@
 Grab the necessary changes with `git pull --rebase <remote> <branch>`, fix any merge conflicts, run git add then resolve with `git rebase --continue`.
 
 ## Deleting Branches 
-`git branch -d <branch> Deletes`local branch 
+`git branch -d <branch>` Deletes local branch 
 
 `git branch -D <branch>` Forces delete for un-merged branches`
 
