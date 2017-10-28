@@ -1,6 +1,6 @@
 # Class 8
 
-Slides are found [here]().
+Slides are found [here](http://jessicagarson.com/ap8/).
 
 # Advanced Git 
 We're going to spend some time discussing merge conflicts and some outstanding questions about git. 
