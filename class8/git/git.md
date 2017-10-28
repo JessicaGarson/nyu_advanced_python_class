@@ -8,13 +8,13 @@
 Grab the necessary changes with `git pull --rebase <remote> <branch>`, fix any merge conflicts, run git add then resolve with `git rebase --continue`.
 
 ## Deleting Branches 
-`git branch -d <branch> Deletes local branch`
+`git branch -d <branch> Deletes`local branch 
 
-`git branch -D <branch> Forces delete for un-merged branches`
+`git branch -D <branch>` Forces delete for un-merged branches`
 
 Remote...
 
-`git push origin :<branch> Deletes Remote Branch`
+`git push origin :<branch>` Deletes Remote Branch
 
 ## Resources
 [How to undo everything with git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
